@@ -47,7 +47,8 @@ Prueben su codigo con los siguientes casos, y chequeen si da los resultados espe
 
 
 CASO 1 
-```productoSeleccionado = "";
+```
+productoSeleccionado = "";
 precioDelProducto = 0;
 usuarioLogueado = false;
 ```
